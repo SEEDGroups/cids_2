@@ -1,0 +1,43 @@
+body{
+	font-family: 'Open Sans', sans-serif;	
+}
+header{
+	background-image:  linear-gradient(to right, #a25b5b, #692e4c);
+	padding: 1.5em 2em;
+}
+header h1{
+	margin-top: 0;
+	font-size: 1.5em;
+}
+
+a{
+	text-decoration: none;
+	color: rgba(255, 255, 255, 0.5);
+	text-transform: uppercase;
+}
+.container{
+	width: 1200px;
+	margin:  0 auto;
+}
+
+.header-top{
+	font-weight:  bold;
+	color:  white;
+}
+.header-top > a{
+	color:  inherit;
+}
+
+nav > a{
+	padding-left: 20px;
+	padding-right: 25px;
+}
+
+nav > a:hover{
+	color:  rgba(255, 255, 255);
+}
+
+/* dashbaord titles */
+.dashboard{
+	width: 50%;
+}
