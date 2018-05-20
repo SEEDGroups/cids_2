@@ -23,11 +23,17 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('about');
 });
+Route::get('/aboutus', function(){
+	return view('aboutus');
+});
 Route::get('/people', function () {
     return view('people');
 });
 Route::get('/research', function () {
     return view('research');
+});
+Route::get('/publication', function(){
+	return view('publication');
 });
 Route::get('/researchTopic', function(){
 	return view('researchPaper');
@@ -38,6 +44,7 @@ Route::get('/gallery', function(){
 Route::get('/contact', function(){
 	return view('contact');
 });
+
 
 /*
 	 Admin routes

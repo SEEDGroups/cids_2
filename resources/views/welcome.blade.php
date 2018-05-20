@@ -43,46 +43,60 @@
   </div>
 </div>
 <div class="wrapper row3">
-  <main class="hoc container clear"> 
-    <!-- main body -->
+  <div class="hoc container clear"> 
    
     <div class="center btmspace-50">
-      <h3 class="font-x2 nospace">WHAT MAKES US</h3>
-      <p class="nospace">Write Something in short if necessary<a href="#">Link</a>.</p>
+      <h3 class="font-x2 nospace"><b><i>Latest Happenings</i></b></h3>
+      <p class="nospace">Here are our some Latest Events</p>
     </div>
-    <ul class="nospace group services">
-      <li class="one_half first">
-        <article><a href="#"><i class="fa fa-key"></i></a>
-          <h6 class="heading">VISION AND MISSION</h6>
-          <p>The vision of this Center is to support the EU SDGs through the collaboration between the National University, Enterprises of Nepal, Government and other stakeholders for promoting Research and Development (R&D), Entrepreneurship and Curriculum Development.&hellip;</p>
-          <!-- <footer><a href="#">Read More &raquo;</a></footer> -->
-        </article>
-      </li>
-      <li class="one_half">
-        <article><a href="#"><i class="fa fa-bar-chart"></i></a>
-          <h6 class="heading">CONTRIBUTION TO NATIONAL DEVELOPMENT</h6>
-          <p>The vision of this Center is to boost the Nation development through the collaboration between the National University, Enterprises of Nepal, Government and other stakeholders for promoting Research and Development (R&D).&hellip;</p>
-          <!-- <footer><a href="#">Read More &raquo;</a></footer> -->
-        </article>
-      </li>
-      <li class="one_half first">
-        <article><a href="#"><i class="fa fa-users"></i></a>
-          <h6 class="heading">COLLABORATION</h6>
-          <p>CIDS has collaborated with others academic Institution nationally and Internationally, various enterprises from local and national level, researchers, experts and other stakeholders.&hellip;</p>
-          <!-- <footer><a href="#">Read More &raquo;</a></footer> -->
-        </article>
-      </li>
-      <li class="one_half">
-        <article><a href="#"><i class="fa fa-edit"></i></a>
-          <h6 class="heading">RESEARCH & TECHNOLOGY</h6>
-          <p>CIDS, Nepal operates by following different guideline.&hellip;</p>
-          <!-- <footer><a href="#">Read More &raquo;</a></footer> -->
-        </article>
-      </li>
-    </ul>
-    <!-- / main body -->
-    <div class="clear"></div>
-  </main>
+    <div class="group">
+      
+      <article class="one_third first">
+        <h4 class="nospace btmspace-10 font-x1 uppercase flex justify-center"><b>NEWS</b></h4>
+        <a href="#"><img class="btmspace-30" src="images/demo/320x220.png" alt=""></a>
+        <h4 class="nospace btmspace-10 font-x1 uppercase">Posuere morbi feugiat</h4>
+        <ul class="nospace btmspace-10 group font-xs">
+          <li class="fl_left">
+            <time datetime="2045-04-06">6<sup>th</sup> April 2045</time>
+          </li>
+          <li class="fl_right">by <a href="#">Admin</a></li>
+        </ul>
+        <hr>
+        <p>Faucibus et a nulla praesent consequat dolor ex vitae hendrerit metus lectus suscipit vitae vivamus ultrices sem tortor augue pharetra&hellip;</p>
+        <p class="nospace"><a href="#">Read More &raquo;</a></p>
+      </article>
+      
+      <article class="one_third">
+        <h4 class="nospace btmspace-10 font-x1 uppercase flex justify-center"><b>Events</b></h4>
+        <a href="#"><img class="btmspace-30" src="images/demo/320x220.png" alt=""></a>
+        <h4 class="nospace btmspace-10 font-x1 uppercase">Urna ipsum vulputate</h4>
+        <ul class="nospace btmspace-10 group font-xs">
+          <li class="fl_left">
+            <time datetime="2045-04-05">5<sup>th</sup> April 2045</time>
+          </li>
+          <li class="fl_right">by <a href="#">Admin</a></li>
+        </ul>
+        <hr>
+        <p>Nunc lacinia vel integer sed tincidunt ipsum nullam at quam non risus maximus consectetur vitae ut nisi praesent vel mauris ut eros&hellip;</p>
+        <p class="nospace"><a href="#">Read More &raquo;</a></p>
+      </article>
+      
+      <article class="one_third">
+        <h4 class="nospace btmspace-10 font-x1 uppercase flex justify-center"><b>Blog</b></h4>
+        <a href="#"><img class="btmspace-30" src="images/demo/320x220.png" alt=""></a>
+        <h4 class="nospace btmspace-10 font-x1 uppercase">Felis posuere mauris</h4>
+        <ul class="nospace btmspace-10 group font-xs">
+          <li class="fl_left">
+            <time datetime="2045-04-04">4<sup>th</sup> April 2045</time>
+          </li>
+          <li class="fl_right">by <a href="#">Admin</a></li>
+        </ul>
+        <hr>
+        <p>Rhoncus pharetra sed eleifend ante sit amet diam porttitor vitae tempor eros posuere integer consequat enim nisl sed posuere sapien&hellip;</p>
+        <p class="nospace"><a href="#">Read More &raquo;</a></p>
+      </article>
+    </div>
+  </div>
 </div>
 <div class="wrapper bgded overlay" style="background-image:url('images/banners/5.jpg');">
   <div class="hoc container clear"> 
